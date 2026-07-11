@@ -2,9 +2,9 @@
 
 # 🚚 Optimización de Rutas de Entrega en una Empresa de Logística
 
-### Implementación en Python utilizando Algoritmo Voraz y Backtracking
+### Implementación de Algoritmos Voraz y Backtracking en Python
 
-Proyecto desarrollado para el curso de **Análisis de Algoritmos y Estrategias de Programación**
+Proyecto académico desarrollado para el curso de **Análisis de Algoritmos y Estrategias de Programación**
 
 **Universidad Privada del Norte (UPN)**
 
@@ -18,13 +18,15 @@ Proyecto desarrollado para el curso de **Análisis de Algoritmos y Estrategias d
 - **Flores Angulo Patrick**
 - **Ortega Valverde Yulissa Stephany**
 - **Rojas Ysla David Alexander**
-- **Zamudio Lopez Elvis Lenin**
+- **Zamudio López Elvis Lenin**
 
 ---
 
-# 🎓 Curso
+# 📚 Curso
 
 **Análisis de Algoritmos y Estrategias de Programación**
+
+**Docente:** Herber Edinson De La Cruz Pampañaupa
 
 **Universidad Privada del Norte (UPN)**
 
@@ -32,78 +34,68 @@ Proyecto desarrollado para el curso de **Análisis de Algoritmos y Estrategias d
 
 # 📖 Descripción
 
-Este proyecto tiene como finalidad optimizar las rutas de entrega de una empresa de logística mediante técnicas de búsqueda implementadas en **Python**.
+Este proyecto consiste en el desarrollo de una aplicación de escritorio para optimizar rutas de entrega en una empresa de logística.
 
-La aplicación compara dos estrategias de resolución para encontrar recorridos eficientes, buscando minimizar la distancia recorrida, reducir los tiempos de entrega y optimizar los costos operativos.
+La aplicación permite calcular una ruta eficiente para realizar entregas a distintos clientes utilizando una estrategia basada en el **Algoritmo Voraz**. Asimismo, el proyecto incorpora una implementación del algoritmo **Backtracking** como alternativa de resolución para futuras comparaciones entre ambos enfoques.
+
+El sistema fue desarrollado utilizando una interfaz gráfica intuitiva que facilita la selección del vehículo y la visualización de la ruta obtenida.
 
 ---
 
 # 🎯 Objetivo
 
-Desarrollar una aplicación en Python que permita optimizar las rutas de distribución de pedidos mediante la comparación de los algoritmos **Voraz (Greedy)** y **Backtracking**, con el propósito de mejorar la eficiencia del proceso logístico y apoyar la toma de decisiones en la planificación de entregas.
+Desarrollar una aplicación en **Python** que permita optimizar las rutas de distribución de pedidos mediante técnicas de optimización, buscando reducir la distancia recorrida y mejorar la eficiencia del proceso logístico.
 
 ---
 
 # 🚚 Problemática
 
-Las empresas de logística realizan diariamente múltiples entregas a diferentes clientes, enfrentando el desafío de planificar recorridos eficientes.
+Las empresas de logística realizan múltiples entregas diariamente, enfrentando el desafío de planificar recorridos eficientes.
 
-Cuando las rutas son definidas sin un criterio de optimización, aumentan los kilómetros recorridos, el consumo de combustible, los tiempos de transporte y los costos operativos. Como consecuencia, disminuye la puntualidad de las entregas y la satisfacción del cliente.
+Una planificación inadecuada puede ocasionar:
 
-Este proyecto propone una solución basada en algoritmos de optimización para analizar distintas rutas y seleccionar aquella que represente el menor costo de recorrido.
+- Incremento de la distancia recorrida.
+- Mayor consumo de combustible.
+- Retrasos en las entregas.
+- Incremento de los costos operativos.
+- Disminución de la satisfacción del cliente.
 
----
-
-# 📥 Entradas del Sistema
-
-El sistema recibe la siguiente información para realizar la optimización:
-
-- Centro de distribución.
-- Lista de clientes.
-- Distancia entre cada ubicación.
-- Vehículos disponibles.
-- Horarios de entrega.
+Por ello, resulta necesario implementar algoritmos que permitan encontrar rutas más eficientes para la distribución de pedidos.
 
 ---
 
-# ⚠ Restricciones
+# ⚙️ Funcionalidades
 
-La solución considera las siguientes restricciones:
+La aplicación permite:
 
-- Cada cliente debe recibir su pedido una única vez.
-- Los vehículos cuentan con capacidad limitada.
-- Deben respetarse los horarios establecidos.
-- Todas las rutas comienzan y finalizan en el centro de distribución.
-
----
-
-# ✅ Criterios de Éxito
-
-La solución será considerada exitosa cuando:
-
-- Todos los pedidos sean entregados correctamente.
-- Se reduzca la distancia total recorrida.
-- Se minimicen los tiempos de entrega.
-- Disminuyan los costos operativos.
-- Se aprovechen eficientemente los vehículos disponibles.
+- Seleccionar el vehículo de reparto.
+- Visualizar el centro de distribución.
+- Mostrar la lista de clientes con su horario de entrega.
+- Calcular una ruta utilizando el algoritmo Voraz.
+- Mostrar la distancia total recorrida.
+- Visualizar los resultados mediante una interfaz gráfica.
 
 ---
 
-# 🧠 Algoritmos Implementados
+# 🧠 Algoritmos implementados
 
-El proyecto compara dos técnicas de optimización:
+El proyecto incorpora las siguientes técnicas:
 
-- **Algoritmo Voraz**.
-- **Backtracking**.
-
-Ambos algoritmos son ejecutados sobre el mismo problema para analizar sus resultados y comparar la calidad de las rutas obtenidas.
+- **Algoritmo Voraz** para calcular la ruta de entrega mostrada en la interfaz.
+- **Backtracking**, implementado como alternativa para resolver el mismo problema mediante una búsqueda exhaustiva.
 
 ---
 
-# 🖼️ Evidencias del Proyecto
+# 💻 Herramientas utilizadas
 
-- Codigo desarrollado en Python.
+- **Lenguaje de programación:** Python
+- **Entorno de desarrollo (IDE):** Visual Studio Code
 
+---
+
+# 📷 Evidencias del proyecto
+
+- Se subirá el código fuente desarrollado en Phyton.
 ---
 
 <div align="center">

@@ -3,7 +3,6 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 
 
-
 clientes = [
     {"nombre": "Cliente: LENIN","horario": "08:00"},
     {"nombre": "Cliente: YULI","horario": "09:00"},

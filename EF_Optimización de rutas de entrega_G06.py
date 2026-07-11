@@ -134,7 +134,7 @@ font=("Arial",11,"bold")).grid(row=0,column=0,sticky="w")
 
 tk.Label(frame,text=centro,bg="#E8F0FE").grid(row=0,column=1)
 
-tk.Label(frame,text="Vehículo:",bg="#E8F0FE",4
+tk.Label(frame,text="Vehículo:",bg="#E8F0FE",
 font=("Arial",11,"bold")).grid(row=1,column=0,sticky="w")
 
 comboVehiculo = ttk.Combobox(frame,values=vehiculos,width=20)

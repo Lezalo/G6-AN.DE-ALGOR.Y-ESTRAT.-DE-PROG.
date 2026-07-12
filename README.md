@@ -53,7 +53,7 @@ Desarrollar una aplicación en **Python** que permita optimizar las rutas de dis
 
 Las empresas de logística realizan múltiples entregas diariamente, enfrentando el desafío de planificar recorridos eficientes.
 
-Una planificación inadecuada puede ocasionar:
+Una planificación inadecuada puede ocasionar: 
 
 - Incremento de la distancia recorrida.
 - Mayor consumo de combustible.
@@ -92,7 +92,7 @@ El proyecto incorpora las siguientes técnicas:
 - **Lenguaje de programación:** Python
 - **Entorno de desarrollo (IDE):** Visual Studio Code
 
----
+-------
 
 # 📷 Evidencias del proyecto
 

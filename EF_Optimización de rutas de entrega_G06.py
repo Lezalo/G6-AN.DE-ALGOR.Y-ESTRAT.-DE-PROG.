@@ -111,6 +111,7 @@ def calcular():
 
 
 
+
 ventana = tk.Tk()
 ventana.title("Optimizacion de rutas de entrega en una empresa de logistica_Grupo06")
 ventana.geometry("700x600")

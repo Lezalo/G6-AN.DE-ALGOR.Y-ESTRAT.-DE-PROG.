@@ -21,7 +21,7 @@ Proyecto académico desarrollado para el curso de **Análisis de Algoritmos y Es
 - **Rojas Ysla David Alexander**
 - **Zamudio López Elvis Lenin**
 
----
+-------
 
 # 📚 Curso
 
@@ -31,7 +31,7 @@ Proyecto académico desarrollado para el curso de **Análisis de Algoritmos y Es
 
 **Universidad Privada del Norte (UPN)**
 
----
+------
 
 # 📖 Descripción
 
@@ -45,8 +45,8 @@ El sistema fue desarrollado utilizando una interfaz gráfica intuitiva que facil
 
 # 🎯 Objetivo
 
-Desarrollar una aplicación en **Python** que permita optimizar las rutas de distribución de pedidos mediante técnicas de optimización, buscando reducir la distancia recorrida y mejorar la eficiencia del proceso logístico.
-
+Desarrollar una aplicación en **Python** que permita optimizar las rutas de distribución de pedidos mediante técnicas de optimización, buscando reducir la distancia recorrida y mejorar la eficiencia del proceso logístico. 
+Y tambien rapidez en entrega ahorro de tiempo y combustibles.
 ---
 
 # 🚚 Problemática
